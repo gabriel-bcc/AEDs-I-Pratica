@@ -1,8 +1,3 @@
-<h1 align="center">
-  <img src="[https://i.imgur.com/8QO5Q8r.png](https://i.imgur.com/8QO5Q8r.png)" alt="Ícone de Algoritmos" width="60" style="vertical-align: middle;"/>
-  Algoritmos e Estruturas de Dados I – Prática (DCE794)
-</h1>
-
 <p align="center">
   <strong>Universidade Federal de Alfenas (Unifal-MG)</strong><br>
   <strong>Curso:</strong> Ciência da Computação (BCC)<br>

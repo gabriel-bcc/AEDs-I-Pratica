@@ -28,8 +28,7 @@ O repositório está organizado da seguinte forma para facilitar a localização
     - `01_Sistema_Aprovacao_Emprestimo/`
     - `02_Cena_Grafica/`
     - `03_Operacoes_Vetores/`
-    - `04_Controle_Imoveis/`
-    - `05_Ordenacao_Ponteiros/`
+    - `04_Ordenacao_Ponteiros/`
 - **`exercicios/`**: Contém as listas e códigos de exercícios para estudo.
     - `01_Estrutura_Condicional/`
     - `02_Condicionais_Repeticoes/`
@@ -48,8 +47,6 @@ A tabela abaixo detalha as atividades práticas que valem nota, com uma breve de
 | **01** | Sistema que classifica a aprovação de empréstimos com base em múltiplos critérios. | Estruturas de controle (`if/else`). | [Ver Código](./atividades/01_Sistema_Aprovacao_Emprestimo/) |
 | **02** | Criação e leitura de um arquivo-texto para descrever uma cena gráfica e calcular sua área/volume. | Manipulação de arquivos, `structs`, cálculos geométricos. | [Ver Código](./atividades/02_Cena_Grafica/) |
 | **03** | Implementação de um menu de operações (busca, inserção, exclusão) em um vetor de inteiros. | Vetores, laços de repetição, manipulação de índices. | [Ver Código](./atividades/03_Operacoes_Vetores/) |
-| **04** | Sistema de gerenciamento de uma base de dados de imóveis, com menu de operações. | `structs`, vetores de registros, manipulação de arquivos, estatísticas. | [Ver Código](./atividades/04_Controle_Imoveis/) |
-| **05** | Implementação de métodos de ordenação (ex: Bubble Sort, Quick Sort) usando ponteiros. | Ponteiros, alocação de memória, algoritmos de ordenação. | [Ver Código](./atividades/05_Ordenacao_Ponteiros/) |
 
 ---
 

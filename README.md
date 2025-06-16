@@ -1,7 +1,7 @@
 <p align="center">
   <strong>Universidade Federal de Alfenas (Unifal-MG)</strong><br>
   <strong>Curso:</strong> Ciência da Computação (BCC)<br>
-  <strong>Período:</strong> 3º Período - 2025/1<br>
+  <strong>Período:</strong> 1º Período - 2025/1<br>
   <strong>Professor:</strong> Paulo Alexandre Bressan<br>
   <strong>Aluno:</strong> Gabriel Henrique Silva Pereira
 </p>
@@ -58,7 +58,6 @@ A tabela abaixo detalha as atividades práticas que valem nota, com uma breve de
 Materiais e listas de exercícios propostos em aula para fixação do conteúdo, sem necessidade de entrega.
 
 | Tópico | Descrição | Link |
-| :--- | :--- | :--- | :--- |
 | **01** | Exercícios básicos com a estrutura condicional `if/else`. | [Ver Código](./exercicios/01_Estrutura_Condicional/) |
 | **02** | Problemas envolvendo estruturas condicionais e de repetição (`for`, `while`). | [Ver Código](./exercicios/02_Condicionais_Repeticoes/) |
 | **03** | Algoritmo para classificar motoristas com base em idade, CNH e infrações. | Lógica condicional complexa. | [Ver Código](./exercicios/03_Classificacao_Motoristas/) |

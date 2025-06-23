@@ -3,7 +3,6 @@
   <strong>Curso:</strong> Ciência da Computação (BCC)<br>
   <strong>Período:</strong> 1º Período - 2025/1<br>
   <strong>Professor:</strong> Paulo Alexandre Bressan<br>
-  <strong>Aluno:</strong> Gabriel Henrique Silva Pereira
 </p>
 
 ---

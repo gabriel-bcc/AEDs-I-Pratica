@@ -2,7 +2,7 @@
   <strong>Universidade Federal de Alfenas (Unifal-MG)</strong><br>
   <strong>Curso:</strong> Ciência da Computação (BCC)<br>
   <strong>Ano/Semestre:</strong> 2025 / Primeiro<br>
-  <strong>Professor:</strong> Paulo Alexandre Bressan<br>
+  <strong>Professor:</strong> Paulo Alexandre Bressan
 </p>
 
 ---

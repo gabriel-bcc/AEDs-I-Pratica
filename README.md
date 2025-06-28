@@ -1,7 +1,7 @@
 <p align="center">
   <strong>Universidade Federal de Alfenas (Unifal-MG)</strong><br>
   <strong>Curso:</strong> Ciência da Computação (BCC)<br>
-  <strong>Período:</strong> 1º Período - 2025/1<br>
+  <strong>Ano/Semestre:</strong> 2025 / Primeiro<br>
   <strong>Professor:</strong> Paulo Alexandre Bressan<br>
 </p>
 
@@ -84,5 +84,5 @@ Todos os projetos foram desenvolvidos em **C/C++** e podem ser compilados utiliz
 ---
 
 <p align="center">
-  Desenvolvido por Gabriel Henrique Silva Pereira para a disciplina de AEDs I.
+  Este README foi criado com base no Programa de Ensino da disciplina.
 </p>
